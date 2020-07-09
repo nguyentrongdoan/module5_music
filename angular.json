@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "music"
+    }
+  },
+  "defaultProject": "music",
+  "cli": {
+    "analytics": false
+  }
 }
